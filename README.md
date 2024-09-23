@@ -67,8 +67,10 @@ To run this project, you need to have the following installed:
 
 ### ROS 2 Topics
 
-- `/image_raw`: Input image topic for object detection.
-- `/yolov8/detections`: Output topic with detected objects.
+- `/rgb_cam/image_raw`: Input image topic for object detection.
+- `/inference_result_cv2`: Output topic img_pub
+- `/inference_result`: Output topic img_pub
+- `/Yolov8_Inference`: Output topic yolov8_pub
 
 ## Contributing
 
