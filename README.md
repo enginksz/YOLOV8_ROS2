@@ -25,7 +25,7 @@ To run this project, you need to have the following installed:
 
     ```bash
     git clone https://github.com/enginksz/YOLOV8_ROS2.git
-    cd YOLOV8_ROS2
+    cd yolov8_ros2
     ```
 
 2. Install dependencies:
